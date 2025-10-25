@@ -1,0 +1,19 @@
+current directory: /Users/dylanwang/Documents/School/UIUC/IS445/Lab 6.1/wangdyl22.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/dylanwang/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dylanwang/Documents/School/UIUC/IS445/Lab 6.1/wangdyl22.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251024-98921-j8sgo9 sitelibdir\=./.gem.20251024-98921-j8sgo9 clean
+
+current directory: /Users/dylanwang/Documents/School/UIUC/IS445/Lab 6.1/wangdyl22.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251024-98921-j8sgo9 sitelibdir\=./.gem.20251024-98921-j8sgo9
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/dylanwang/Documents/School/UIUC/IS445/Lab 6.1/wangdyl22.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251024-98921-j8sgo9 sitelibdir\=./.gem.20251024-98921-j8sgo9 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251024-98921-j8sgo9/racc
+
+current directory: /Users/dylanwang/Documents/School/UIUC/IS445/Lab 6.1/wangdyl22.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251024-98921-j8sgo9 sitelibdir\=./.gem.20251024-98921-j8sgo9 clean
